@@ -1,0 +1,12 @@
+#strings are enclosed in #speechmarks
+to tell python to take that value literally
+
+name = '#muyani letina + patrick'
+print (name)
+print (marks)
+phone_number = "725706317"
+print ("phone_number")
+marks = int (marks)
+print
+
+
